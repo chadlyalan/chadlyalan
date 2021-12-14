@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chad. I'm a tech nerd who's moved around a lot while I look for something fun to work on.
 - 👀 I’m interested in development positions that are willing to risk it on someone without profressional experience.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently working on ReactJS projects.
 - 💞️ I’m looking to collaborate on . . ?
 - 📫 How to reach me: Chadat37@gmail.com
 
