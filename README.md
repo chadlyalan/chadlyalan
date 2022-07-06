@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Chad. I'm a tech nerd who's moved around a lot while I look for something fun to work on.
-- 👀 I’m interested in development positions that are willing to risk it on someone without profressional experience.
-- 🌱 I’m currently working on ReactJS projects.
-- 💞️ I’m looking to collaborate on . . ?
+- 👋 Hi, I’m Chad. I'm a tech nerd who's moved around a lot.
+- 🌱 I’m currently working with Rock Garden Inc (https://www.rockgarden.io/) as a Software Developer. We're building the next generation of Rock Climbing guides in the form of a new app called Rock Garden. 
 - 📫 How to reach me: Chadat37@gmail.com
 
 <!---
